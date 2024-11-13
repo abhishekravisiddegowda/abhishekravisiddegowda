@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a motivated software development enthusiast with a strong foundation in programming principles and a keen interest in building innovative solutions. Recently graduated with a master degree in MCA, I'm skilled in languages like C, C#, Java, Python and familiar with development frameworks and tools such as HTML/CSS/JavaScript. My primary focus is on deepening my knowledge in full-stack development, and I’m eager to learn and grow in a collaborative environment. With a strong commitment to continual learning, I am excited to contribute to dynamic software projects, tackle challenges, and enhance my skills as part of a forward-thinking team.
-
+I'm a motivated software development enthusiast with a strong foundation in programming principles. Recently graduated with a master degree in MCA, I'm skilled in languages like C, C#, Java, Python and familiar with development frameworks and tools such as HTML/CSS/JavaScript. My primary focus is on deepening my knowledge in full-stack development, and I’m eager to learn and grow in a collaborative environment.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhirsg) 
